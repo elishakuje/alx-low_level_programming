@@ -1,11 +1,12 @@
-Hello, World
- --------------------------------
- This Project was done during Full Stack Software Engineering studies @ alx africa. it aims was to learn about what is entry point, basics c commands (puts, printf, putchar),the size of a specific type using the unary operator sizeof, the right header to include when using a standard library function, and compilation process with gcc in **C language.**
+C Hello, World 			
+ ---------------------------------
+This Project was done during Full Stack Software Engineering studies @ alx africa. it aims was to learn about what is entry point, basics c commands (puts, printf, putchar),the size of a specific type using the unary operator sizeof, the right header to include when using a standard library function, and compilation process with gcc in **C language.**
 Technologies
  ---------------------------------
-- Scripts written in Bash 5.0.17(1)- C files are compiled using `gcc 9.4.0`
-- Tested on Ubuntu 20.04 LTS 
-  -------------------------------
+- Scripts written in Bash 5.0.17(1)
+- C files are compiled using `gcc 9.4.0`
+- Tested on Ubuntu 20.04 LTS
+ ---------------------------------
 The following files are scripts and programs written in C:
 
 | File name | Description |
