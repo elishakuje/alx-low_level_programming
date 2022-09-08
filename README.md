@@ -14,5 +14,4 @@ Projects
  ---------------------------------
 The following are project folders done in the course of the studies:
 
-  | Project name | Description |     | --- | --- |                      | `0x00-hello_World` | to learn about what is entry point, basics commands (puts, printf, putchar), compilation process with gcc in ** C language** |  
-  | To learn about arithmetic operators, relational operators, boolean operators, comments, declaring variables and loops in **C language** |
+| Project name | Description |     | --- | --- |                      | `0x00-hello_World` | to learn about what is entry point, basics commands (puts, printf, putchar), compilation process with gcc in ** C language** |  
