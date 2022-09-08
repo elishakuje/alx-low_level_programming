@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- *  main - A C Program that prints a qoute by Dora Korpar 
+ * main - C program that prints a quote
  * Return:1
  */
 int main(void)
