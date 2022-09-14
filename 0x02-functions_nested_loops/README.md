@@ -1,8 +1,7 @@
 Functions, nested loops
-  ------------------------------
+ ------------------------------
 
 Project done during Software Engineering studies at Alx africa. It aims to learn about header files, functions, loops and nested loops in **C language.**
-
 
 Technologies
   ----------------------------
@@ -14,7 +13,12 @@ Tested on Ubuntu 20.04 LTS
 Files
   ---------------------------
 
-The following files are scripts and programs written in C:                                               | File name | Description |        | --- | --- |                      | `0-putchar.c` | Prints `_putchar` followed by a new line.     |     | `1-alphabet.c` | Prints the alphabet in lowercase |
+The following files are scripts and programme written in C:
+
+| Filename | Description |
+| --- | --- |
+| `0-putchar.c` | Prints `_putchar` followed by a new line. |
+| `1-alphabet.c` | Prints the alphabet in lowercase |
 | `2-print_alphabet_x10.c` | Prints 10 times the alphabet, in lowercase |
 | `3-islower.c` | Checks for lowercase character |
 | `4-isalpha.c` | Function that checks for alphabetic character |
