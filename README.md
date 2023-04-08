@@ -29,6 +29,8 @@ The following are project folders done in the course of the studies:
 | [`0x09-static_libraries`](https://github.com/elishakuje/alx-low_level_programming/tree/main/0x09-static_libraries) | This project was about how to create a static and dynamic libraries in **C Language** |
 | [`0x0A-argc_argv`](https://github.com/elishakuje/alx-low_level_programming/tree/main/0x0A-argc_argv) | How to use arguments and pass them and how to use two prototypes of main function in **C Language** |
 | [`0x0B-malloc_free`](https://github.com/elishakuje/alx-low_level_programming/tree/main/0x0B-malloc_free) | It aims was to learn about the difference between automatic and dynamic allocation; what is `malloc` and `free` and how to use them;why and when to use `malloc`; and How to use `valgrind` to check for memory task in **C Language.** |
+| [`0x0C. C - More malloc, free`](https://github.com/elishakuje/alx-low_level_programming/tree/main/0x0C-more_malloc_free) | It aims was to learn about automatic and dynamic allocation, malloc and free. |
+
 
 Author
  ---------------------
